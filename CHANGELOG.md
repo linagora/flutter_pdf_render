@@ -1,3 +1,6 @@
+## [2.0.0] - 2024-08-06
+- Release new version `v2.0.0`
+
 ## 1.4.8
 
 - js plugin backed to 0.6.7
